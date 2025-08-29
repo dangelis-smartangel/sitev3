@@ -114,7 +114,7 @@ html {
 	}
 
 body {
-	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 	font-weight: 300;
 	letter-spacing: 0.02em;
 	font-size: 15px; 
@@ -209,7 +209,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: 
 .text-light :-ms-input-placeholder { color: #ffffff; }
 
 input[type=text], input[type=password], input[type=email], textarea {
-	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
 	font-weight: 300;
 	font-size: 14px;
 	background: #ffffff;
@@ -244,7 +244,7 @@ input[type=submit], input[type=button], button {
 	-webkit-border-radius:0px;
 	border-radius: 0px;
 	display: inline-block;
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 700;
 	font-size: 11px;
 	line-height: 22px;
@@ -267,7 +267,7 @@ input[type=submit]:hover, input[type=button]:hover, button:hover { background: #
 select {
 	background: #ffffff;
 	border: 1px solid #e0e0e0;
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-size: 11px;
 	font-weight: 400;
 	height: 44px;
@@ -906,9 +906,9 @@ nav#main-nav > ul > li:first-child { margin: 0; }
 	
 nav#main-nav > ul > li > a {
 	display: inline-block;
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
-	font-size: 12px;
+	font-size: 24px;
 	text-transform: uppercase;
 	color: #1a1a1a;
 	letter-spacing: 0.13em;
@@ -1024,7 +1024,7 @@ nav#main-nav ul li ul > li {
 	nav#main-nav ul li > ul.submenu > li:last-child { margin-bottom: 17px; }
 	
 nav#main-nav ul li ul > li > a {
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	color: #696969;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -1043,7 +1043,7 @@ nav#main-nav ul li ul > li a:hover, nav#main-nav ul li ul > li.current-menu-item
 	
 #menu.menu-is-open nav#main-nav .mega-menu-content ul li.mega-menu-title > a,
 header.header-style-vertical #menu:not(.menu-is-open) nav#main-nav .mega-menu-content ul li.mega-menu-title > a {
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
 	color: #696969;
 	text-transform: uppercase;
@@ -1170,7 +1170,7 @@ nav#main-nav .mega-menu-content ul li.mega-menu-title > a {
 	display: block;
 	position: relative;
 	text-transform: uppercase;
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
 	margin-bottom: 20px;
 	color: #1a1a1a;
@@ -1289,7 +1289,7 @@ nav#main-nav .mega-menu-content ul li.mega-menu-title > a:after {
 	}
 
 #smart-nav ul li a {
-	font-family:'Montserrat';
+	font-family:'Open Sans Condensed';
 	font-weight: 400;
 	font-size: 11px;
 	line-height: 40px;
@@ -1437,7 +1437,7 @@ nav#main-nav .mega-menu-content ul li.mega-menu-title > a:after {
 	}
 	
 #header-search .header-search-content input[type=text] {
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 700;
 	text-align: center;
 	border: none;
@@ -1663,7 +1663,7 @@ nav#main-nav .mega-menu-content ul li.mega-menu-title > a:after {
 	position: relative;
 	font-size: 11px;
 	color: #1a1a1a;
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
@@ -1718,7 +1718,7 @@ nav#main-nav .mega-menu-content ul li.mega-menu-title > a:after {
 #header-language .header-language-content ul.lang-select li a {
 	font-size: 11px;
 	color: #1a1a1a;
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
@@ -2023,7 +2023,7 @@ footer .copyright {
 footer #backtotop {
 	text-align: center;
 	font-size: 11px;
-	font-family: "Montserrat";
+	font-family: "Open Sans Condensed";
 	font-weight: 400;
 	line-height: 20px;
 	position: fixed;
@@ -2262,7 +2262,7 @@ header.header-style-floating + #hero #page-title { padding-top: 140px; }
 .filter li a {
 	display: inline-block;
 	color: #1a1a1a;
-	font-family:'Montserrat';
+	font-family:'Open Sans Condensed';
 	font-size: 12px;
 	line-height: 26px;
 	font-weight: 400;
@@ -2341,7 +2341,7 @@ header.header-style-floating + #hero #page-title { padding-top: 140px; }
 	margin: 0 12px;
 	font-size: 12px;
 	line-height: 18px;
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
 	letter-spacing: 0;
 	color: #1a1a1a;
@@ -2517,7 +2517,7 @@ header.header-style-floating + #hero #page-title { padding-top: 140px; }
 	position: absolute;
 	top: 0;
 	right: 0;
-	font-family: "Montserrat";
+	font-family: "Open Sans Condensed";
 	font-weight: 400;
 	font-size: 11px;
 	line-height: 17px;
@@ -2552,7 +2552,7 @@ header.header-style-floating + #hero #page-title { padding-top: 140px; }
 	}
 
 .product-media .onsale {
-	font-family: 'Montserrat'; 
+	font-family: 'Open Sans Condensed'; 
 	font-size: 10px;
 	line-height: 17px;
 	font-weight: 400;
@@ -2568,7 +2568,7 @@ header.header-style-floating + #hero #page-title { padding-top: 140px; }
 	}
 	
 .product-price {
-	font-family: 'Montserrat'; 
+	font-family: 'Open Sans Condensed'; 
 	font-size: 13px;
 	line-height: 18px;
 	font-weight: 400;
@@ -2627,7 +2627,7 @@ header.header-style-floating + #hero #page-title { padding-top: 140px; }
 	}
 	
 .shop-container .shop-item .product-media .add-to-cart-overlay a {
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 700;
 	font-size: 11px; 
 	line-height: 20px; 
@@ -3215,7 +3215,7 @@ header:not(.header-transparent) + #page-body .fullwidth-section.fullheight:first
 	}
 
 #pagination ul li a, #single-pagination:not(.img-pagination) ul li a, #pagination ul li span {
-	font-family:'Montserrat';
+	font-family:'Open Sans Condensed';
 	font-weight: 400;
 	font-size: 11px;
 	line-height: 17px;
@@ -3369,7 +3369,7 @@ header:not(.header-transparent) + #page-body .fullwidth-section.fullheight:first
 	}
 	
 .img-pagination ul li a span {
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 700;
 	font-size: 11px;
 	line-height: 17px;
@@ -3419,7 +3419,7 @@ header:not(.header-transparent) + #page-body .fullwidth-section.fullheight:first
 	transition: all 0.2s ease;
 	display: block;
 	text-align: left;
-	font-family:'Montserrat';
+	font-family:'Open Sans Condensed';
 	font-weight: 400;
 	font-size: 11px;
 	}
@@ -3854,7 +3854,7 @@ p.meta-row + p.meta-row {
 	}
 
 p.meta-row .meta-label {
-	font-family:'Montserrat';
+	font-family:'Open Sans Condensed';
 	font-weight: 400;
 	font-size: 12px;
 	letter-spacing: 0.04em;
@@ -3929,7 +3929,7 @@ p.meta-row .meta-label {
 
 /* Buttons */
 .sr-button {
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 700;
 	font-size: 12px;
 	line-height: 22px;
@@ -4170,7 +4170,7 @@ hr.zigzag {
 	
 .inline-video::after {
 	content: attr(data-button);
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 700;
 	font-size: 12px;
 	line-height: 22px;
@@ -4241,7 +4241,7 @@ hr.zigzag {
 	div .sr-counter:first-child { margin-top: 0; }
 
 .sr-counter .counter-value {
-	font-family: 'Montserrat'; 
+	font-family: 'Open Sans Condensed'; 
 	font-weight: 700;
 	font-size: 26px;
 	line-height: 36px;
@@ -4694,7 +4694,7 @@ hr.zigzag {
 	.text-light .pricing-table .pricing-price, .pricing-table.text-light .pricing-price  { border-color: rgba(255,255,255,0.22); }
 
 .pricing-table .pricing-price .price-unit {
-	font-family: 'Montserrat'; 
+	font-family: 'Open Sans Condensed'; 
 	font-size: 34px;
 	line-height: 44px;
 	font-weight: 400;
@@ -4815,7 +4815,7 @@ div[class*='alert-']:before {
 	
 .widget ul:not(.socialmedia-widget):not(.product-list) li a {
 	color: #696969;
-	font-family:'Montserrat';
+	font-family:'Open Sans Condensed';
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 20px;
@@ -5071,7 +5071,7 @@ div[class*='alert-']:before {
 	font-size: 12px;
 	line-height: 15px;
 	display: block;
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 300;
 	color: #9c9c9c;
 	}
@@ -5335,7 +5335,7 @@ div[class*='alert-']:before {
 	}
 
 .tp-caption.sudo-caption {
-	font-family: 'Montserrat';
+	font-family: 'Open Sans Condensed';
 	font-weight: 400;
 	letter-spacing: -0.02em;
 	color: #1a1a1a;
@@ -5344,7 +5344,7 @@ div[class*='alert-']:before {
 	.text-light .tp-caption.sudo-caption { color: #ffffff; }
 
 .tp-caption.sudo-caption.subtitle-1 {
-	font-family: 'Lato';
+	font-family: 'Open Sans Condensed';
 	font-weight: 300; 
 	letter-spacing: 0.03em; 
 	}
